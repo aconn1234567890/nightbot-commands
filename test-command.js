@@ -1,5 +1,5 @@
 if (user == 'AConn1') {
-  return "Hello, AConn. " + query;
+  "Hello, AConn. " + query;
 else {
-  return "Unknown user. " + query;
+  "Unknown user. " + query;
 }
