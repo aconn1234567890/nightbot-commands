@@ -1,5 +1,5 @@
 if (user == 'AConn1') {
   "Hello, AConn. " + query;
-else {
+} else {
   "Unknown user. " + query;
 }
