@@ -1,0 +1,1 @@
+!editcom !addcrown -a=!editcom !crowns $(eval `$`+`(eval var c = $(count); if ("`+`$`+`(query)".includes("eagles")) {"Jack has "+c+" crown wins jackizCrown That's "+c+" more wins than the Vikings have in the Super Bowl"} else {"Jack has "+c+" crown wins jackizCrown"})`)
