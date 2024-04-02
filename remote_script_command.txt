@@ -1,0 +1,1 @@
+$(eval const query=decodeURIComponent("$(querystring)"); const user="$(user)"; const channel="$(channel)"; const userLevel="$(userlevel)"; $(urlfetch json https://raw.githubusercontent.com/aconn1234567890/nightbot-commands/main/test-command.js))
