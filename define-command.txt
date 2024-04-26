@@ -1,0 +1,1 @@
+$(eval const query=decodeURIComponent("$(querystring)"); const resp = $(urlfetch json https://api.dictionaryapi.dev/api/v2/entries/en/decodeURIComponent("$(querystring $(1))")); $(urlfetch json https://raw.githubusercontent.com/aconn1234567890/nightbot-commands/main/test-command.js))
